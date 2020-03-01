@@ -1,0 +1,9 @@
+E:\GitHub\Maxit_Single-Player\Maxit_Single-Player\bin\Debug\Maxit_Single-Player.exe.config
+E:\GitHub\Maxit_Single-Player\Maxit_Single-Player\bin\Debug\Maxit_Single-Player.exe
+E:\GitHub\Maxit_Single-Player\Maxit_Single-Player\bin\Debug\Maxit_Single-Player.pdb
+E:\GitHub\Maxit_Single-Player\Maxit_Single-Player\obj\Debug\Maxit_Single-Player.csprojAssemblyReference.cache
+E:\GitHub\Maxit_Single-Player\Maxit_Single-Player\obj\Debug\Maxit_Single_Player.FormMain.resources
+E:\GitHub\Maxit_Single-Player\Maxit_Single-Player\obj\Debug\Maxit_Single_Player.Properties.Resources.resources
+E:\GitHub\Maxit_Single-Player\Maxit_Single-Player\obj\Debug\Maxit_Single-Player.csproj.GenerateResource.cache
+E:\GitHub\Maxit_Single-Player\Maxit_Single-Player\obj\Debug\Maxit_Single-Player.exe
+E:\GitHub\Maxit_Single-Player\Maxit_Single-Player\obj\Debug\Maxit_Single-Player.pdb
